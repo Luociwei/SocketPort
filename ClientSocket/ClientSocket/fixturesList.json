@@ -1,0 +1,5 @@
+[
+    {"fixture":"Scope","ip":"127.0.0.1","port":"5286"},
+    {"fixture":"Eload","ip":"127.0.0.1","port":"5287"},
+    {"fixture":"Battery","ip":"127.0.0.1","port":"5288"}
+]
